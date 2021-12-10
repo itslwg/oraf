@@ -1,6 +1,7 @@
 
-# Documentation for 'Avalanche forecasting: An Ordinal Regression Approach'
+# 'ORAF: Ordinal Regression for Avalanche Forecasting'
 
+Authors:
 - Ludvig Wärnberg Gerdin
 - David Howard Neill
 - Nathan Simonis
