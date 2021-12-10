@@ -1,5 +1,5 @@
 
-# 'ORAF: Ordinal Regression for Avalanche Forecasting'
+# ORAF: Ordinal Regression for Avalanche Forecasting
 
 Authors:
 - Ludvig Wärnberg Gerdin
